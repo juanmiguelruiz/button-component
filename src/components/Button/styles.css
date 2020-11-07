@@ -43,8 +43,7 @@ button {
   .text:hover {
     background: rgba(41, 98, 255, 0.1);
   }
-  /*#endregion*/
-  /*#region Disableds */
+
   .disable-shadow {
     background: #3d5afe;
     box-shadow: none;
@@ -61,8 +60,7 @@ button {
   .disabled:hover {
     background: #e0e0e0;
   }
-  /*#endregion */
-  /*#region sizes */
+
   .sm {
     padding: 6px 12px;
   }
@@ -72,10 +70,7 @@ button {
   .lg {
     padding: 11px 22px;
   }
-  /*#endregion */
-  /*#region Colors */
-  /* .default{
-  } */
+
   .primary,
   .secondary,
   .danger {

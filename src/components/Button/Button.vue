@@ -4,7 +4,7 @@
       size,
       variant,
       color,
-      { 'disable-sahdow': disableShadow, disabled: disabled },
+      { 'disable-shadow': disableShadow, disabled: disabled },
     ]"
     :disabled="{ disabled }"
   >
