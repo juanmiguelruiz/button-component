@@ -15,7 +15,6 @@ button {
     color: #3f3f3f;
     cursor: pointer;
     transition: all 0.2s ease-out;
-    --padding: 10px;
   }
 
   button:hover {
