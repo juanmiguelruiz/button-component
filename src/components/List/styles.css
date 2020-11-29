@@ -32,7 +32,7 @@ h1{
 footer,
 footer p,
 footer a {
-    font-family: "Ubuntu Mono";
+    font-family: "Courier New", Courier, monospace;
     font-size: 15px;
     line-height: 12px;
     text-decoration: none;
